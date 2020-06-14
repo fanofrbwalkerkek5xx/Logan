@@ -18,4 +18,5 @@ A modular Telegram bot running on python3 with an sqlalchemy database, with some
 * FFBot - for translations functions
 And much more that we couldn't list it here!
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/fanofrbwalkerkek5xx/Logan)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/fanofrbwalkerkek5xx/Logan). 
+
